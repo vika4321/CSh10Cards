@@ -47,6 +47,7 @@ namespace Cards
                 south.Text = hands[1].ToString();
                 east.Text = hands[2].ToString();
                 west.Text = hands[3].ToString();
+
             }
             catch (Exception ex)
             {
